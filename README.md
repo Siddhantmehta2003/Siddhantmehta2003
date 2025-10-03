@@ -8,10 +8,10 @@
   <a href="https://github.com/Siddhantmehta2003?tab=followers">
     <img src="https://img.shields.io/github/followers/Siddhantmehta2003?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-siddhantmehta02@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-blue?logo=gmail" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id">
+  <a href="https://www.linkedin.com/in/siddhant-mehta-3508111b5/">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
@@ -66,8 +66,8 @@
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="40"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+  <a href="mailto:siddhantmehta02@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/siddhant-mehta-3508111b5/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
   <a href="https://github.com/Siddhantmehta2003"><img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/></a>
 </p>
 
