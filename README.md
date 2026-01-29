@@ -1,96 +1,84 @@
-# Hi, I’m Siddhant Mehta 👋
+<!-- Profile README for Siddhant Mehta -->
 
-Software Engineer with experience building **scalable applications**, **clean user interfaces**, and **reliable systems**.  
-I enjoy working across the stack — from low-level problem solving and backend logic to polished frontend experiences.
+<h1 align="center">Hi 👋, I'm Siddhant Mehta</h1>
+<h3 align="center">Software Engineer • Systems Thinker • Product Builder</h3>
 
----
-
-## 🚀 About Me
-
-- 💼 Software Engineer with industry experience in production systems  
-- 🧠 Strong foundation in **data structures, algorithms, and system design**
-- 🛠️ Comfortable working across **frontend, backend, and mobile**
-- 🐧 Regularly work in **Linux-based development environments**
-- 📈 Interested in performance, scalability, and long-term maintainability
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Siddhantmehta2003&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Siddhantmehta2003?label=Followers&style=social" />
+</p>
 
 ---
 
-## 🔧 Tech Stack
+## 🧠 About Me
 
-**Languages**
-- C / C++
-- JavaScript / TypeScript
-- Python
-- Java
+I’m a software engineer who enjoys working **across the stack** — from low-level problem solving and backend logic to refined frontend and mobile experiences.  
+I care about **performance, clarity, and building things that last**.
 
-**Frontend**
-- React
-- HTML5, CSS3
-- Tailwind CSS
-
-**Mobile**
-- Flutter
-- React Native
-
-**Backend & Systems**
-- REST APIs
-- Linux
-- Basic networking concepts
-- Performance & memory-aware programming
-
-**Tools**
-- Git & GitHub
-- CI/CD
-- VS Code
-- Firebase
+- 💼 Industry experience in production systems  
+- 🧩 Strong in data structures, algorithms, and system fundamentals  
+- 🐧 Comfortable in Linux environments  
+- ⚙️ Interested in scalability, performance, and clean architecture  
 
 ---
 
-## 📌 Selected Projects
+## 🛠️ Tech Stack
 
-### 🔹 Music Player Web Application
-- Responsive, animated music player built with modern React patterns
-- Focus on smooth UI interactions and optimized rendering  
-**Tech:** React, TypeScript, State Management
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,react,html,css,flutter,linux,git,firebase,vscode" />
+</p>
+
+---
+
+## 📌 Featured Work
+
+### 🔹 Music Player Web App
+- Smooth, animated UI with optimized rendering
+- Persistent playback and clean state management  
+**Tech:** React, TypeScript
 
 ### 🔹 Deprecated Code Smell Finder
-- Static analysis tool to identify deprecated APIs and maintainability risks
-- Designed to help reduce technical debt in large codebases  
-**Tech:** Python, Static Analysis
+- Static analysis tool to detect deprecated APIs and maintenance risks  
+**Tech:** Python
 
-### 🔹 QuotesForWhatsapp
-- Mobile app to generate and share motivational quotes
-- Clean UI and efficient state handling  
-**Tech:** Flutter, Dart
-
-### 🔹 VegieApp (E-commerce App)
-- Grocery ordering app with cart, authentication, and order flow
-- Backend-integrated mobile experience  
+### 🔹 VegieApp (E-commerce Mobile App)
+- Full cart, authentication, and order flow  
 **Tech:** Flutter, Firebase
 
-👉 More projects available in my [repositories](https://github.com/Siddhantmehta2003?tab=repositories)
+👉 Explore more in my [repositories](https://github.com/Siddhantmehta2003?tab=repositories)
 
 ---
 
-## 🧠 What I Value as an Engineer
+## 📊 Engineering Stats
 
-- Writing **readable, maintainable code**
-- Understanding **why** systems behave the way they do
-- Building things that scale beyond the first version
-- Clear communication and ownership
-- Continuous learning
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddhantmehta2003&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhantmehta2003&theme=tokyonight" />
+</p>
 
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhantmehta2003&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhantmehta2003&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhantmehta2003&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌍 Connect With Me
+## ⚙️ Fun Techy Stuff
 
-- 📧 Email: siddhantmehta02@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/siddhant-mehta-3508111b5/
-- 🧑‍💻 GitHub: https://github.com/Siddhantmehta2003
+- 🧪 I enjoy breaking things to understand **how systems fail**
+- 🧠 Prefer reading source code over tutorials
+- ⏱️ Obsessed with reducing unnecessary abstractions
+- 🛠️ Believe great software is built, not rushed
+
+---
+
+## 🌍 Connect
+
+<p align="center">
+  <a href="mailto:siddhantmehta02@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/siddhant-mehta-3508111b5/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+  <a href="https://github.com/Siddhantmehta2003"><img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/></a>
+</p>
+
+---
+
+⭐️ From [Siddhantmehta2003](https://github.com/Siddhantmehta2003)
